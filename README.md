@@ -1,2 +1,19 @@
 # Fundametal-I
-This repository is create to upload to Fundamental projects
+This repository is create to upload to Fundamental projects of GROUP ONE
+Section B
+Group Members
+1. Daniel Kebede-------------------------------------------------------------ETS0367/15
+2. Eyosiayas Gezahegn------------------------------------------------------ETS0507/15
+3. Eyuel Gebreslasie---------------------------------------------------------ETS0510/15
+4. Eyuel Mazengia------------------------------------------------------------ETS0514/15
+5. Fikadu Argeta--------------------------------------------------------------ETS0537/15
+6. Firaol Tsegaye------------------------------------------------------------ETS05611/15
+7. Gedion Alemu -------------------------------------------------------------ETS0577/15
+8. Gedion Samuel-------------------------------------------------------------ETS0578/15
+9. Haregweyn Tewabe-------------------------------------------------------ETS0636/15
+10. Hawi Girma---------------------------------------------------------------ETS0644/15
+
+
+Submitted to: Mrs.Eleni 
+Submission date: January 22, 2024
+
