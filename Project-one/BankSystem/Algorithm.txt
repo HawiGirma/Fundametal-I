@@ -1,0 +1,50 @@
+1.	Start
+2.	Initialize array of accounts, number of accounts, and manager pin number.
+3.	When while condition is true
+4.	Initialize transaction type
+5.	If transaction type is equal to ‘S’, initialize manager pin.
+6.	If manager pin is equal to manager pin number, print bank is open, else print bank is not open.
+7.	Return to step 4
+8.	If transaction type is equal to ‘O’, Check if the bank is open or not.
+9.	If the bank is open, initialize pin number, initial deposit, else return to step 4
+10.	 check if initial deposit is greater than or equal to 25, 
+11.	If initial deposit is greater than 25, print the account number, else print error message.
+12.	Return to step 4
+13.	If transaction type is equal to ‘B’, Check if the bank is open or not.
+14.	If the bank is open, initialize account number and pin number and integer i to 0.
+15.	If I is less than number of accounts and the account number and pin number matches, else return to step 4 
+16.	Print account number and balance
+17.	Return to step 4
+18.	 If the transaction type is equal to ‘D’, Check if the bank is open or not.
+19.	If the bank is open, initialize account number, amount and pin number and integer i to 0, else return to step 4.
+20.	If I is less than number of accounts, check the account number, pin number matches else return to step 4
+21.	Calculate the balance (add amount to the balance)
+22.	Print the new balance and return to step 4
+23.	If transaction type is equal to ‘W’, Check if the bank is open or not.
+24.	If the bank is open, initialize account number, amount and pin number and integer i to 0.
+25.	If I is less than number of accounts, check if the account and pin number matches and amount is less than or equal to balance else return to step 4
+26.	Calculate the new balance (subtract the amount from the balance)
+27.	Print new balance 
+28.	If the transaction type is equal to ‘C’, Check if the bank is open or not.
+29.	If the bank is open, initialize account number, amount and pin number and integer i to 0, else return to step 4 
+30.	 If i is less than number of accounts, check the account, and pin number matches else return to step 4
+31.	Print account is closed.
+32.	If the transaction type is equal to ‘I’, Check if the bank is open or not.
+33.	If the bank is open, initialize interest rate, and manager pin and integer i to 0, else return to step 4 
+34.	If I is less than number of accounts, check if manager pin number matches else return to step 4
+35.	If I is less than number of accounts, check if the manager pin, and manager pin number matches else return to step 4
+36.	Calculate the interest.
+37.	Return to step 4.
+38.	If the transaction type is equal to ‘P’, Check if the bank is open or not.
+39.	If the bank is open, initialize print type, and manager pin, else return to step 4 
+40.	If the print type is equal to ‘A’, initialize integer I to 0.
+41.	If I is less than number of accounts, print account number and balance, else return to step 4
+42.	If the print type is equal to ‘T’, initialize account number, and integer I, j to 0.
+43.	If I is less than number of accounts and the account number matches, print account number else return to step 4
+44.	If j is less than number of accounts, print transactions else return to step 43.
+45.	If the transaction type is equal to ‘E’, Check if the bank is open or not.
+46.	If the bank is open, initialize manager pin, else return to step 4 
+47.	check if manager pin number matches, else return to step 4
+48.	print all accounts have been closed.
+49.	end
+
